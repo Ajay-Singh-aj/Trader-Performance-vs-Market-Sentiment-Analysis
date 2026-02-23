@@ -11,7 +11,6 @@ The analysis includes:
 - Behavioral analysis across sentiment conditions
 - Trader segmentation and clustering
 - A simple predictive model for next-day trader profitability
-
 ---
 
 ##  Dataset Description
